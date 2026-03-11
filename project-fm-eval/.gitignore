@@ -27,3 +27,7 @@ node_modules/
 # IDE
 .vscode/
 .idea/
+
+# OS (운영체제 관련 불필요한 파일들)
+.DS_Store
+Thumbs.db
